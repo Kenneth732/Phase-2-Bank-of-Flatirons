@@ -1,0 +1,32 @@
+{
+  "transactions": [
+    {
+      "date": "2022-08-05",
+      "description": "Deposit",
+      "category": "School fees",
+      "amount": "1500",
+      "id": 14
+    },
+    {
+      "date": "2022-08-05",
+      "description": "Ouma Nyang- Adm 115264",
+      "category": "Examination Fees",
+      "amount": "5000",
+      "id": 15
+    },
+    {
+      "date": "2022-08-05",
+      "description": "Tender Consignment fees",
+      "category": "Procurements",
+      "amount": "1000",
+      "id": 16
+    },
+    {
+      "date": "2022-08-05",
+      "description": "Equipment  Repair ",
+      "category": "Procurement Department",
+      "amount": "215350",
+      "id": 17
+    }
+  ]
+}
